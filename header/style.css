@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+}
+.list ul {
+    color: rgb(243, 243, 243);
+    list-style-type: none;
+    display: flex;
+    gap:30px;
+    justify-content: center;
+    
+}
+.list{
+    background-color: blue;
+    width: 100%;
+    height:40px;
+}
+.list ul li{
+    text-align: center;
+}
